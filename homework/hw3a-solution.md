@@ -38,3 +38,24 @@ origin  https://github.com/basabealex/py4eda-work.git (push)
 
 e4d4c3b (HEAD -> master, origin/master) Add hw3a solution document
 e7eec93 Initial commit: Add README and .gitignore
+
+## Questions ##
+### Reflections
+QUESTION 1
+a) Before this assignment I tried to organize everything from the files on my PC trying to organize everything using folders. If i wanted to save an older version of a file i had to create a copy of the document.
+With Git it is much simpler as you can save all the versions you want of the project with the commit tool making it much easier, efficient and clean.
+The 3 main advantages in my opinion are:
+--> You can control the version of the project and keep a track of the changes in history. You can go back to any previous version of the project.
+--> Very good for collaboration with other people. You can see what changes in the project each person made.
+--> From what i've read, the work is always safe as it is stored in the cloud
+
+b) When working in my last internship i had to make a project using excel VBA (macros). Using this tool would have been really helpful to keep a track of the changes I made because I would forget what things i changed two weeks ago for example.
+
+QUESTION 2
+a) It is important to keep these separate because they are different things, one is my project and the other one is a copy of Dan's. If we would try to put everything into one repository it would become a mess and things would interact between each other since some file names may be the same.
+b) I would keep each project/assignment separate from each other in different repositories to have an organized structure and know where everything is without issues.
+
+QUESTION 3
+a) The second message is more usefull as it tells us exactly what we need to do. We might want to find this commit in the future if we make a change and it makes the project stop working as expected.
+b) I would commit before making any important change to the code. I don't see a reason not to commit often. A significant change to the project structure may be a goo "unit of work" for a single commit.
+
